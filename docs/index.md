@@ -1,89 +1,72 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Harrison Sanders's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Harrison Sanders
+Aspiring Accountant with Data Science Skills
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="https://www.linkedin.com/in/harrison-m-sanders/">LinkedIn</a>
+| <a href="https://github.com/HarrisonSan">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2021-Current`
+__Brigham Young University Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
+- Major: Accounting - Minor: Data Science
+- 3.64 GPA
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`2023-Current`
+__Melaleuca Inc__, Idaho Falls, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+- Created a program using VBA to increase visibility of the money spent on monthly utilites, approve invoices, and streamline the process. 
+- Used SQL in various projects designed to improve template designs for accounting processes. 
+- Performed monthly accounting tasks including bank reconciliations, closing tasks, reporting, etc. 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2021-2022`
+__Deli Assosicate__, Walmart
 
+- Adhere to quality standards for customer service as outlined by supervisor. 
+- Ensured satisfied guests with excellent service and communication. 
+- Processed orders to accommodate customers special requests.
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2019-2021`
+__Service Missionary__, Portland Oregon
 
+- Assisted the Mission President for a year by facilitating mission logistics and inventory, taught and trained other mission leaders and missionaries in groups up to 270. Responsible for setting up and running complex technical solutions to facilitate large in-person interactive gatherings with remote presenters. Also was a point person for technology, assisting with technical problems throughout the mission   
+- Assisted in leading a zone of missionaries of 18-25 individuals for nine months. Charged to coordinate missionary efforts with local church leaders and looking after the welfare, leading, training, and pace setting of those missionaries    
+- Assisted in leading a district of missionaries ranging from 10-12 individuals for a month and a half. Charged with the welfare, leading, training, and pace setting of those missionaries  
+- Taught others about the teachings of Jesus Christ for 2 years alongside leadership opportunities. I learned how to teach, communicate, and relate with people of all races, religions, and backgrounds 
 
+`2017-2019`
+__Supervisor, Swim Instructor, Lifeguard, Operations__, Lifetime Fitness
+
+- Watched over the pool and the facility and coordinated lifeguard responsibilities 
+- Taught people of all ages how to swim 
+- Continuous scanning of the pool for the safety of the members. This position also included emergency CPR and First-Aid training 
+- Oversaw the buildings day to day operations by ensuring everything was stocked, cleaned, and in working order to ensure the highest quality of experience for our members
+
+`2016-2018`
+__Trainer, Team Member__, Chick-fil-a
+
+- Operated a cash register and assisted in food preparation, cleaning, and maintenance of the restaurant. 
+- Followed all company policies regarding food handling, cleanliness, safety, etc., adhered to dress code standards at all times while on duty. 
+- Assisted with training new team members as needed and performed other duties assigned by management within scope of job description. 
+- Performed other duties as assigned or required during peak business hours such as special events, store openings/closings, etc. 
 
 <!-- ### Footer
 
+Last updated: May 2013 -->
 Last updated: May 2013 -->
 
 
